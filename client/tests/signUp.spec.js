@@ -23,5 +23,5 @@ test("User Login Test", async ({ page }) => {
   await page.getByRole("button", { name: "Login" }).click();
 
   // Check if dashboard is visible after login
-  await expect(page.getByText("Dashboard")).toBeVisible();
+  await expect(page.getByText("CUETStore")).toBeVisible();
 });

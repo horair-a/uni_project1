@@ -7,7 +7,7 @@ test('User Login Test', async ({ page }) => {
   await page.getByRole('textbox', { name: 'Email Address' }).fill('dfk@gmail.com');
   await page.getByRole('textbox', { name: 'Password' }).fill('1234');
   await page.getByRole('button', { name: 'Login' }).click();
-  await expect(page.getByText('Dashboard')).toBeVisible();
+  await expect(page.getByText('CUETStore')).toBeVisible();
 });
 
 test('Admin Login Test', async ({ page }) => {
