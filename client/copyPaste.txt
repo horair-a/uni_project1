@@ -1,0 +1,8 @@
+make multiple testcases from this system. 
+Here which component was clicked but not occured anything 
+take as toBeVisible() check. 
+
+
+ Give short Test heading. Every Heading should have Test word at last.
+
+ make   easy multiple test cases make email unique with date.now(). visibility test of text clicked here.
