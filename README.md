@@ -1,5 +1,5 @@
 # CUET Store System
-Welcome to CUETStore – the centralized inventory for CUET! 🏢 Request departmental essentials like chairs, tables, and multimedia equipment effortlessly..
+Welcome to CUETStore – the centralized inventory for CUET! 🏢 Request departmental essentials like chairs, tables, and multimedia equipment effortlessly.
 
 ## System Flow
 
