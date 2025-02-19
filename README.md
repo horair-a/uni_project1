@@ -1,26 +1,6 @@
 # CUET Store System
 Welcome to CUETStore – the centralized inventory for CUET! 🏢 Request departmental essentials like chairs, tables, and multimedia equipment effortlessly.
 
-## System Flow
-
-The CUET Store system begins with the **User Interface**, where users log in and their credentials are verified.The **CUET Store System** checks the order status (Accepted/Rejected) and updates the inventory if the order is accepted. The **Admin** review and approve/reject the order requests. Once approved, the system updates the inventory and finalizes the process.
-
-
-## Features
-
-- **User Registration & Login**: Secure login and authentication for users.
-- **Order Management**: Admin can approve/reject orders and update inventory records.
-- **Real-time Inventory Updates**: Inventory is updated automatically when an order is processed.
-
-
-Here's your README file for GitHub:
-
----
-
-# CUET Store Management System
-
-The CUET Store Management System streamlines product requests and inventory management for departmental needs.
-
 ## Features
 
 ### 1. **Admin Panel**
@@ -46,16 +26,16 @@ The CUET Store Management System streamlines product requests and inventory mana
 - **Frontend**: React (HTML, CSS, JavaScript)
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB/MySQL (configurable)
-- **Authentication**: JWT (JSON Web Tokens)
 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/https://github.com/horair-a/uni_project1
    ```
 2. Navigate to the project folder:
    ```bash
-   cd cuet-store-management
+   cd client
+   cd server
    ```
 3. Install dependencies:
    ```bash
