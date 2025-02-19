@@ -25,7 +25,7 @@ Welcome to CUETStore – the centralized inventory for CUET! 🏢 Request depart
 ### 5. **Technologies Used**
 - **Frontend**: React (HTML, CSS, JavaScript)
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB/MySQL (configurable)
+- **Database**: MongoDB
 
 ## Setup Instructions
 1. Clone the repository:
@@ -46,4 +46,17 @@ Welcome to CUETStore – the centralized inventory for CUET! 🏢 Request depart
    ```bash
    npm start
    ```
+## Contributors  
+- **Adnan Faisal**  
+- **Shiti Chowdhury**  
+- **Abu Horaira**  
+
+## Instructor & Guidelines  
+**Mir Md. Saki Kowsar**  
+Assistant Professor  
+Dept. of CSE, CUET  
+
+**Md. Al-Mamun Provath**  
+Lecturer  
+Dept. of CSE, CUET  
 
