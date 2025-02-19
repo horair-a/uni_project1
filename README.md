@@ -3,7 +3,7 @@ Welcome to CUETStore – the centralized inventory for CUET! 🏢 Request depart
 
 ## System Flow
 
-The CUET Store system begins with the **User Interface**, where users log in and their credentials are verified. Once validated, users can place orders. The **CUET Store System** checks the order status (Accepted/Rejected) and updates the inventory if the order is accepted. The **Admin & Department Head** review and approve/reject the order requests. Once approved, the system updates the inventory and finalizes the process.
+The CUET Store system begins with the **User Interface**, where users log in and their credentials are verified.The **CUET Store System** checks the order status (Accepted/Rejected) and updates the inventory if the order is accepted. The **Admin** review and approve/reject the order requests. Once approved, the system updates the inventory and finalizes the process.
 
 
 ## Features
